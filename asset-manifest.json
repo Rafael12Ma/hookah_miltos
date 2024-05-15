@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/hookah_miltos/static/css/main.f855e6bc.css",
-    "main.js": "/hookah_miltos/static/js/main.bb2cffb0.js",
+    "main.css": "/hookah_miltos/static/css/main.24d036d5.css",
+    "main.js": "/hookah_miltos/static/js/main.bca91dde.js",
     "static/js/453.72343467.chunk.js": "/hookah_miltos/static/js/453.72343467.chunk.js",
     "static/media/logo.svg": "/hookah_miltos/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/hookah_miltos/index.html",
-    "main.f855e6bc.css.map": "/hookah_miltos/static/css/main.f855e6bc.css.map",
-    "main.bb2cffb0.js.map": "/hookah_miltos/static/js/main.bb2cffb0.js.map",
+    "main.24d036d5.css.map": "/hookah_miltos/static/css/main.24d036d5.css.map",
+    "main.bca91dde.js.map": "/hookah_miltos/static/js/main.bca91dde.js.map",
     "453.72343467.chunk.js.map": "/hookah_miltos/static/js/453.72343467.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.bb2cffb0.js"
+    "static/css/main.24d036d5.css",
+    "static/js/main.bca91dde.js"
   ]
 }
