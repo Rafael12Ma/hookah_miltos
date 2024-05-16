@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/hookah_miltos/static/css/main.e1965afe.css",
-    "main.js": "/hookah_miltos/static/js/main.a6db46c7.js",
+    "main.js": "/hookah_miltos/static/js/main.fd4b4c6c.js",
     "static/js/453.72343467.chunk.js": "/hookah_miltos/static/js/453.72343467.chunk.js",
     "static/media/hookahMiltos.jpg": "/hookah_miltos/static/media/hookahMiltos.24b9600478f8add9d91f.jpg",
     "static/media/egw.jpg": "/hookah_miltos/static/media/egw.ee16fd9c0132d3a08ef1.jpg",
     "static/media/logo.svg": "/hookah_miltos/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/hookah_miltos/index.html",
     "main.e1965afe.css.map": "/hookah_miltos/static/css/main.e1965afe.css.map",
-    "main.a6db46c7.js.map": "/hookah_miltos/static/js/main.a6db46c7.js.map",
+    "main.fd4b4c6c.js.map": "/hookah_miltos/static/js/main.fd4b4c6c.js.map",
     "453.72343467.chunk.js.map": "/hookah_miltos/static/js/453.72343467.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e1965afe.css",
-    "static/js/main.a6db46c7.js"
+    "static/js/main.fd4b4c6c.js"
   ]
 }
